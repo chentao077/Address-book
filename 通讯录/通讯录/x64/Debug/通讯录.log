@@ -4,5 +4,17 @@ G:\C语言\Address-book\通讯录\通讯录\test.c(19,3): warning C4996: 'scanf'
 G:\C语言\Address-book\通讯录\通讯录\test.c(21,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 G:\C语言\Address-book\通讯录\通讯录\test.c(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 G:\C语言\Address-book\通讯录\通讯录\test.c(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-G:\C语言\Address-book\通讯录\通讯录\test.c(58,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(71,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(94,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(124,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+G:\C语言\Address-book\通讯录\通讯录\test.c(126,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+G:\C语言\Address-book\通讯录\通讯录\test.c(128,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+G:\C语言\Address-book\通讯录\通讯录\test.c(130,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+G:\C语言\Address-book\通讯录\通讯录\test.c(132,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+G:\C语言\Address-book\通讯录\通讯录\test.c(115,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(124,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(126,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(128,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(130,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\C语言\Address-book\通讯录\通讯录\test.c(132,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   通讯录.vcxproj -> G:\C语言\Address-book\通讯录\x64\Debug\通讯录.exe

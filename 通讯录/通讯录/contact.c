@@ -25,21 +25,33 @@ int main()
 		{
 		case Add:
 			//添加对象
+			system("cls");
 			AddContact(&con);
 			break;
 		case Del:
 			//删除对象
+			system("cls");
 			DelContact(&con);
 			break;
 		case Search:
+			//查找对象
+			system("cls");
+			SearchContact(&con);
 			break;
 		case Modify:
+			//修改对象
+			system("cls");
+			ModifyContact(&con);
 			break;
 		case Print:
-			//打印
+			//打印通讯录
+			system("cls");
 			PrintContact(&con);
 			break;
 		case Sort:
+			//排序通讯录
+			system("cls");
+			SortContact(&con);
 			break;
 		case Exit:
 			printf("退出通讯录\n");

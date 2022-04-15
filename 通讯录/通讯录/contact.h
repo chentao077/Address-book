@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<stdlib.h>
 
 #define Max      1000
 #define Name_max 10
@@ -38,3 +39,6 @@ void InitContact(struct contact* ps);
 void AddContact(struct contact* ps);
 void PrintContact(const struct contact* ps);
 void DelContact(struct contact* ps);
+void SearchContact(const struct contact* ps);
+void ModifyContact(const struct contact* ps);
+void SortContact(struct contact* ps);
