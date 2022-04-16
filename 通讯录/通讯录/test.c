@@ -136,10 +136,10 @@ void ModifyContact(const struct contact* ps)
 }
 int Cmp_Name(const void* p1, const void* p2)
 {
-	return strcmp(((struct People_Init*)p1)->name, ((struct People_Init*)p2)->name);
-	printf("排序成功\n");
+	return strcmp(((struct People_Init*)p1)->name, ((struct People_Init*)p2)->name);	
 }
 void SortContact(struct contact* ps)
 {
 	qsort(ps->data, ps->size, sizeof(ps->data[0]), Cmp_Name);
+	printf("排序成功\n");
 }
